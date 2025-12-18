@@ -22,23 +22,6 @@ Rather than being a single application, this repository serves as a **practice s
 
 ---
 
-## 🛠️ Usage
-
-To run these programs, you will need:
-
-* An assembler compatible with the syntax used (e.g., MASM, TASM, NASM, or EMU8086)
-* A suitable emulator or operating environment
-
-Typical steps:
-
-```bash
-assembler filename.asm
-```
-
-Then link (if required) and execute the generated file in your environment.
-
----
-
 ## 🎯 Purpose
 
 The main goal of this repository is to:
